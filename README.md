@@ -2,6 +2,11 @@
 ---
 ## **โครงสร้างมาตรฐาน (Project Structure) ที่ dbt สร้างขึ้น**
 
+**Folder Structure**
+'''text
+northwindDW_duckdb/
+
+
 เป็นระบบตามแนวทางของ Analytics Engineering โดยแต่ละโฟลเดอร์มีหน้าที่แตกต่างกันดังนี้:
 
     1. seeds/ (ตารางข้อมูลอ้างอิง)
