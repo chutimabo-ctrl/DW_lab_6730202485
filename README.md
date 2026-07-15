@@ -5,7 +5,7 @@
 **Folder Structure**
 ```text
 northwindDW_duckdb/
-
+|
 ```
 เป็นระบบตามแนวทางของ Analytics Engineering โดยแต่ละโฟลเดอร์มีหน้าที่แตกต่างกันดังนี้:
 
