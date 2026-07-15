@@ -3,7 +3,7 @@
 ## **โครงสร้างมาตรฐาน (Project Structure) ที่ dbt สร้างขึ้น**
 
 **Folder Structure**
-'''text
+```text
 northwindDW_duckdb/
 
 
